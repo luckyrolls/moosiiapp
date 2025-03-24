@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Moosii – Coming Soon</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Helvetica Neue', sans-serif;
+      background: #f6f8fa;
+      color: #333;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      text-align: center;
+    }
+    .container {
+      max-width: 500px;
+      padding: 20px;
+    }
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 0.3em;
+    }
+    p {
+      font-size: 1.1em;
+      margin-bottom: 1em;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+      margin-bottom: 1.5em;
+    }
+    ul li::before {
+      content: "✔️";
+      margin-right: 0.5em;
+    }
+    input[type="email"] {
+      width: 80%;
+      padding: 10px;
+      font-size: 1em;
+      margin-bottom: 1em;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 1em;
+      background: #ff6b6b;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #ff4b4b;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Moosii is Coming Soon</h1>
+    <p>Your go-to app for parenting support and baby safety.</p>
+    <ul>
+      <li>Expert-reviewed courses on infant safety and care</li>
+      <li>Personalized learning paths as your baby grows</li>
+      <li>Human-backed AI help, anytime you need it</li>
+    </ul>
+    <form action="https://formspree.io/f/mgvaypkb" method="POST">
+      <input type="email" name="email" placeholder="Enter your email" required />
+      <br />
+      <button type="submit">Notify Me</button>
+    </form>
+  </div>
+</body>
+</html>
