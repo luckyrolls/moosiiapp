@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy | Moosii</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <h1>Privacy Policy for Moosii</h1>
+  <p>Effective Date: [Insert Date]</p>
+
+  <p>Moosii is committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your information when you use our mobile app.</p>
+
+  <h2>Information We Collect</h2>
+  <ul>
+    <li>Personal Information: Name, email address (if you provide it)</li>
+    <li>Device Information: Type of device, operating system</li>
+    <li>Usage Data: How the app is used, crash logs</li>
+  </ul>
+
+  <h2>How We Use Your Information</h2>
+  <p>We use your information to:</p>
+  <ul>
+    <li>Provide and improve the app</li>
+    <li>Communicate updates</li>
+    <li>Ensure user support</li>
+  </ul>
+
+  <h2>Third-Party Services</h2>
+  <p>We may use third-party services such as analytics and error tracking, which may collect some information under their own policies.</p>
+
+  <h2>Data Security</h2>
+  <p>We take reasonable steps to protect your information, but no system is 100% secure.</p>
+
+  <h2>Children’s Privacy</h2>
+  <p>The app is intended for adult caregivers. We do not knowingly collect personal information from children under 13.</p>
+
+  <h2>Contact Us</h2>
+  <p>If you have questions, contact us at <a href="mailto:hello@moosiiapp.com">hello@moosiiapp.com</a></p>
+</body>
+</html>
